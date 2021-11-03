@@ -22,7 +22,7 @@
             <button class="assignment" onclick="location.href='https://aibuyan.w3spaces.com/assignment1.html?bypass-cache=1635259662'">Assignment 1</button>
             <button class="assignment" onclick="location.href='https://aibuyan.w3spaces.com/assignment2.html?bypass-cache=1635260169'">Assignment 2</button>
             <button class="assignment" onclick="location.href='https://aibuyan.w3spaces.com/assignment3.html?bypass-cache=1635260298'">Assignment 3</button>
-            <button class="assignment" onclick="window.location.href='/#'">Assignment 4</button>
+            <button class="assignment" onclick="location.href='https://aibuyan.w3spaces.com/assignment4.html?bypass-cache=1635934593'">Assignment 4</button>
             </div>
             <div id="namesection"style="font-family:Trebuchet MS;color:#a7c266">ANGELO CLYDE M. IBUYAN</div>
         </div>
